@@ -5,3 +5,12 @@ No repositorio principal, *sobrescreve* os arquivos tests.py dos APPS.
 Deixei o caminho semelhante das pastas, estão dentro do SRC/ 
 
 Para configuração há um arquvivo txt para rodar o projeto Django / Python, por favor seguir os passos. 
+
+** Rodar test 
+Após a configuração e arquivos salvos para rodar os tests é:
+
+py manage.py test accounts 
+py manage.py test employees
+py manage.py test github
+py manage.py test trello
+
