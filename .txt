@@ -1,0 +1,7 @@
+OBS.: Em caso de dúvida cria um branch nova e faz commit nessa branch nova.
+
+No repositorio principal, *sobrescreve* os arquivos tests.py dos APPS. 
+
+Deixei o caminho semelhante das pastas, estão dentro do SRC/ 
+
+Para configuração há um arquvivo txt para rodar o projeto Django / Python, por favor seguir os passos. 
